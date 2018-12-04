@@ -1,0 +1,24 @@
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.exe.config
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.exe
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.pdb
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csprojResolveAssemblyReference.cache
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C_Motor_Driver.Form1.resources
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C_Motor_Driver.Properties.Resources.resources
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.GenerateResource.cache
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.CoreCompileInputs.cache
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.CopyComplete
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.exe
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.pdb
+C:\Users\Topesh\Documents\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\MCP2221DLL-M-dotNet4.dll
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.exe.config
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.exe
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\I2C Motor Driver.pdb
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\bin\Debug\MCP2221DLL-M-dotNet4.dll
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csprojResolveAssemblyReference.cache
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C_Motor_Driver.Form1.resources
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C_Motor_Driver.Properties.Resources.resources
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.GenerateResource.cache
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.CoreCompileInputs.cache
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.csproj.CopyComplete
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.exe
+C:\Users\Topesh\Documents\MAGISTERKA\Projekt - Przemysłowe Interfejsy Komunikacyjne\I2C Motor Driver\I2C Motor Driver\obj\Debug\I2C Motor Driver.pdb
